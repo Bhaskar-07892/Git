@@ -3,3 +3,6 @@ def addition (a, b) :
 
 def subtrection (a,b) :
     return a-b
+
+def multipliction (a,b) :
+    return a*b
