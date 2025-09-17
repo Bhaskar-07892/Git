@@ -1,2 +1,2 @@
-### Practicing Git commands
+### Practicing Git commands using VS Code
 
